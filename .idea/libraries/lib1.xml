@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QR-Code-em-Java/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QR-Code-em-Java/lib/slf4j-api-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QR-Code-em-Java/lib/javatalkClient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QR-Code-em-Java/lib/webcam-capture-0.3.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QR-Code-em-Java/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QR-Code-em-Java/lib/bridj-0.6.2-windows-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QR-Code-em-Java/lib/javase-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QR-Code-em-Java/lib/javatalkServer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QR-Code-em-Java/lib/core-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QR-Code-em-Java/lib/slf4j-log4j12-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

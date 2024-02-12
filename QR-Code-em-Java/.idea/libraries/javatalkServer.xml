@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javatalkServer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../javatalk/javatalkServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
