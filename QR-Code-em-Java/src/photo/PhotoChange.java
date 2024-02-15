@@ -33,7 +33,7 @@ public class PhotoChange {
         Request request = new Request.Builder()
                 .url("https://www.ailabapi.com/api/image/effects/ai-anime-generator")
                 .method("POST", body)
-                .addHeader("ailabapi-api-key", "xUsapX8vJ4D6uLjIRK5Ja9ZwcTPAbkdWECromRymilbP7Bo1LwGSDezYnXMugABv")
+                .addHeader("ailabapi-api-key", "API_KEY")
                 .build();
         //Response response = client.newCall(request).execute();
 
