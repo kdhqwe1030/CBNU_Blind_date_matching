@@ -49,14 +49,12 @@ https://github.com/kdhqwe1030/CBNU_Blind_date_matching/assets/115572203/dc3f3ca4
 ## library
 
 
-- ctypes 
-- PIL 
-- win32gui
-- win32api
-- win32con
-- pyautogui
-- time
-- numpy
+- annotations-13.0
+- kotlin-stdlib-1.9.21 
+- json-simple-1.1.1
+- okhttp-5.0.0-alpha.12
+- okio-jvm-3.7.0
+
 
 
 
